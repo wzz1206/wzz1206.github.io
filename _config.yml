@@ -29,7 +29,7 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 Instagram:
-  username: @charlie_wang126
+  username: 
   card: summary
 logo: logo.png
 social:
