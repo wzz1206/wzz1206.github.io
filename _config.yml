@@ -1,5 +1,5 @@
 # Setup
-title: Charlie¡¯s Station
+title: My blog
 description: student in EE, stepping forward
 url: https://vszhub.github.io
 avatar: /avatar.jpeg
@@ -33,7 +33,7 @@ Instagram:
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Zizheng Wang
   links:
     - https://twitter.com/vszhub
     - https://github.com/wzz1206
