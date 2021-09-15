@@ -33,6 +33,12 @@ date: 2021-9-15 10:42 +0800
 |distort|v.扭曲，曲解||
 |eclectic|adj.多元化的，兼收并蓄的||
 |elicit|v.引出||
+|exacting|adj.费劲的，艰巨的||
+|forage|n.草料；v.觅食；搜寻||
+|homogeneous|adj.同质的，同类的||
+|immense|adj.巨大的||
+|intrinsic|adj.固有的，本质的||
+|manifest|v.显示；adj.明显的||
 
 
 
