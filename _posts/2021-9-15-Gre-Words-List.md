@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gre Words List
-tags: Gre, learning
+tags: [Gre, learning]
 math: true
 date: 2021-9-15 10:42 +0800
 ---
