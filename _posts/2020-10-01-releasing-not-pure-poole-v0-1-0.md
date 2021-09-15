@@ -1,13 +1,22 @@
 ---
 layout: post
-title: Releasing Not Pure Poole v0.1.0
-author: Songzi Vong
+title: Reading Notes of Gre 
+author: Charlie Wang
 tags:
-- jekyll theme
-- jekyll
-date: 2020-10-01 13:56 +0800
+- note
+- gre
+date: 2021-9-15 10:34 +0800
 ---
-The Jekyll theme **Not Pure Poole** v0.1.0 was released!
+It's time for preparing Gre test! (Finally)
+
+This post will be used to record every understanding of the framework of the whole gre test.
+
+
+
+
+
+-------------------------------
+original content
 
 Not Pure Poole is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
 
