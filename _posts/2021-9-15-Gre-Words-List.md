@@ -22,6 +22,17 @@ date: 2021-9-15 10:42 +0800
 |introspective|adj.反省的||
 |blemish|n.瑕疵||
 |squalid|adj.肮脏的；道德败坏的||
+|austere|adj.朴素的；清苦的；严肃的||
+|cathedral|n.大教堂||
+|church|n.大教堂||
+|chorus|n.合唱队||
+|confront|v.面对，对抗||
+|conifer|n.针叶树||
+|crater|n.陨石坑；火山口||
+|culminate|v.达到顶点||
+|distort|v.扭曲，曲解||
+|eclectic|adj.多元化的，兼收并蓄的||
+|elicit|v.引出||
 
 
 
