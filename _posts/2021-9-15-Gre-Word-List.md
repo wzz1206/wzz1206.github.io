@@ -5,8 +5,8 @@ tags: mathjax
 math: true
 date: 2021-9-15 10:42 +0800
 ---
-|  Word  |  Translation  | Similar Words   |  Recited  |  Description  |
-|--------|---------------|---------------|-----------|
+|  Word  |  Translation  | Similar Words |  Recited  |  Description  |
+|--------|---------------|---------------|-----------|---------------|
 |perspicuity|adj.易懂的，明晰的||||
 |forfeit|v.丧失；n.罚金，没收物||||
 |posit|v.假设，认定，认为...为实；n.安置；论断||||
