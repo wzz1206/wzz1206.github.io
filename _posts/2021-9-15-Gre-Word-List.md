@@ -5,9 +5,13 @@ tags: mathjax
 math: true
 date: 2021-9-15 10:42 +0800
 ---
-|  Word  |  Translation  |  Description  |  Recited  | 
+|  Word  |  Translation  | Similar Words   |  Recited  |  Description  |
 |--------|---------------|---------------|-----------|
-|perspicuity|易懂的，明晰的|||
+|perspicuity|adj.易懂的，明晰的||||
+|forfeit|v.丧失；n.罚金，没收物||||
+|posit|v.假设，认定，认为...为实；n.安置；论断||||
+|lapse|n.疏忽，小错；v.失效，期满终止；衰退，衰弱||||
+|sanguine|adj.充满信心的，乐观的;n.血红色，红粉笔（画）|positive,optimistic,confident|||
 
 
 
