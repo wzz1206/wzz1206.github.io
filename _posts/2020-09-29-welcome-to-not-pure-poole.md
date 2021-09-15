@@ -3,23 +3,13 @@ layout: post
 title: My First Post
 date: 2021-09-13 18:49 +0800
 last_modified_at: 2021-09-13 18:49:00 +0800
-tags: [jekyll theme, jekyll, tutorial]
+tags: [description, model, tutorial]
 toc:  true
 ---
 This post is changed from the original text description passage.
 {: .message }
 
-TOC making guidance
-
-Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
-
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
-
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
-
-## Inline HTML elements
-
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+Ways to mark words:
 
 - **To bold text**, use `<strong>`.
 - *To italicize text*, use `<em>`.
