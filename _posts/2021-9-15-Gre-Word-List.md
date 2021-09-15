@@ -5,6 +5,9 @@ tags: mathjax
 math: true
 date: 2021-9-15 10:42 +0800
 ---
+|  Word  |  Translation  |  Description  |  Recited  | 
+|--------|---------------|---------------|-----------|
+|perpicuity|易懂的，明晰的|||
 
 
 
