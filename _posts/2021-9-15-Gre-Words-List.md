@@ -6,7 +6,7 @@ math: true
 date: 2021-9-15 10:42 +0800
 ---
 
-|Date:2021-9-15 |
+|Date1:2021-9-15 |
 ---
 
 |     Word     |              Translation             |  Recited  |
@@ -39,7 +39,12 @@ date: 2021-9-15 10:42 +0800
 |immense|adj.巨大的||
 |intrinsic|adj.固有的，本质的||
 |manifest|v.显示；adj.明显的||
+|meager|adj.缺乏的，不足的||
+|mundane|adj.尘世的，世俗的；平凡的，普通的||
+|preservative|adj.有保护力的，防护的||
+|prevalent|adj.普遍的，流行的||
 
+-------
 
 
 
