@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Gre Words List
-tags: mathjax
+tags: Gre,learning
 math: true
 date: 2021-9-15 10:42 +0800
 ---
+**Date1**
 |Word    |    Translation     |    Recited    |
 |--------|-----------------------------------------------------|----|
 |perspicuity|adj.易懂的，明晰的||
@@ -12,7 +13,12 @@ date: 2021-9-15 10:42 +0800
 |posit|v.假设，认定，认为...为实；n.安置；论断||
 |lapse|n.疏忽，小错；v.失效，期满终止；衰退，衰弱||
 |sanguine|adj.充满信心的，乐观的;n.血红色，红粉笔（画）||
-
+|sybarite|n.爱奢华享乐的人||
+|allure|v.诱惑;n.吸引力，||
+|retrospective|adj.回顾的||
+|introspective|adj.反省的||
+|blemish|n.瑕疵||
+|squalid|adj.肮脏的；道德败坏的||
 
 
 
