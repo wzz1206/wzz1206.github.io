@@ -46,8 +46,33 @@ date: 2021-9-15 10:42 +0800
 
 -------
 
+|Date1:2021-9-16|
+---
 
-
+|     Word     |              Translation             |  Recited  |
+|--------------|--------------------------------------|-----------|
+|comprise|v.由...组成，包含||
+|conceivable|adj.可以想象的，想得到的||
+|concrete|adj.具体的，确实的||
+|drivative|adj.陈腐的，非原创的||
+|dual|adj.双重的||
+|embellish|v.美化，装饰||
+|emulate|v.模仿;努力赶超||
+|forge|v.锻造；伪造||
+|genius|n.天赋，天才|√|
+|globule|n.小球体||
+|indispensable|adj.不可或缺的||
+|mite|n.螨虫；极少量||
+|opaque|adj.不透光的；难以理解的||
+|prestigious|adj.有威望的，受尊敬的||
+|realm|n.领域，范围||
+|repress|v.压制，抑制||
+|sporadic|adj.偶尔的，间断发生的||
+|startle|v.惊吓，使吓一跳||
+|stun|v.使震惊，使目瞪口呆||
+|stir|v.搅动；n.愤怒，震动||
+|albeit|conj.尽管||
+|conjunction|n.结合;连词||
 
 
 
