@@ -55,7 +55,7 @@ date: 2021-9-15 10:42 +0800
 |conceivable|adj.可以想象的，想得到的||
 |concrete|adj.具体的，确实的||
 |drivative|adj.陈腐的，非原创的||
-|dual|adj.双重的||
+|dual|adj.双重的|√|
 |embellish|v.美化，装饰||
 |emulate|v.模仿;努力赶超||
 |forge|v.锻造；伪造||
@@ -73,7 +73,24 @@ date: 2021-9-15 10:42 +0800
 |stir|v.搅动；n.愤怒，震动||
 |albeit|conj.尽管||
 |conjunction|n.结合;连词||
+-------
 
+|Date1:2021-9-17|
+---
+
+|     Word     |              Translation             |  Recited  |
+|--------------|--------------------------------------|-----------|
+|metaphor|n.暗喻，隐喻；n.象征||
+|moderate|adj.适当的，中等的，温和不激进的；v.减轻，缓和||
+|odds|n.几率，可能性；不一致，矛盾||
+|odd|adj.奇数的||
+|overt|adj.公开的，明显的||
+|pacific|adj.（人）和平的，（天气）温和的||
+|plage|n.瘟疫，灾祸；v.使困扰，折磨||
+|refine|v.改善；精炼||
+|robust|adj.强壮的，坚固的||
+|thwart|v.阻挠，妨碍||
+|trait|n.特征，特性||
 
 
 
