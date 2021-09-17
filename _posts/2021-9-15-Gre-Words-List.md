@@ -12,7 +12,7 @@ date: 2021-9-15 10:42 +0800
 |     Word     |              Translation             |  Recited  |
 |--------------|--------------------------------------|-----------|
 |perspicuity|adj.易懂的，明晰的||
-|forfeit|v.丧失；n.罚金，没收物||
+|forfeit|v.丧失；n.罚金，没收物|√|
 |posit|v.假设，认定，认为...为实；n.安置；论断||
 |lapse|n.疏忽，小错；v.失效，期满终止；衰退，衰弱|√|
 |sanguine|adj.充满信心的，乐观的;n.血红色，红粉笔（画）|√|
@@ -97,6 +97,27 @@ date: 2021-9-15 10:42 +0800
 |attune|v.使协调||
 |benign|adj.和善的，温和的；良性的无害的||
 |betray|v.背叛；流露，展现|√|
+|biodiversity|n.生物多样性||
+|calculated|adj.有意的，蓄谋的||
+|counter|v.反驳||
+|deter|v.阻止，威慑||
+|dubious|adj.可疑的，靠不住的||
+|embody|v.体现，使具体化；包括||
+|esoteric|adj.深奥难懂的||
+|gravitation|n.重力，万有引力||
+|immminent|adj.即将来临的||
+|instrumental|adj.有益处的，有帮助的||
+|invaluable|adj，非常宝贵的||
+|overshadow|v.比...更重要，使...相形见绌||
+|proposition|n.观点，主张||
+|ramification|n.后果，影响||
+|rudimentary|adj.根本的，基础的；初步的，初始的||
+|sheer|adj.完全的，纯粹的||
+|statute|n.法令，法规||
+|tangle|v.纠缠，缠绕||
+|tedious|adj.冗长无味的，枯燥的||
+|venerate|v.尊重，敬仰||
+|weather|v.经受；风化||
 
 
 
