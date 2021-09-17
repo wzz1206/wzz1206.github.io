@@ -46,7 +46,7 @@ date: 2021-9-15 10:42 +0800
 
 -------
 
-|Date1:2021-9-16|
+|Date2:2021-9-16|
 ---
 
 |     Word     |              Translation             |  Recited  |
@@ -76,7 +76,7 @@ date: 2021-9-15 10:42 +0800
 
 -------
 
-|Date1:2021-9-17|
+|Date3:2021-9-17|
 ---
 
 |     Word     |              Translation             |  Recited  |
@@ -92,8 +92,11 @@ date: 2021-9-15 10:42 +0800
 |robust|adj.强壮的，坚固的||
 |thwart|v.阻挠，妨碍||
 |trait|n.特征，特性||
-
-
+|unprecedented|adj.空前的，史无前例的||
+|alumina|n.氧化铝，矾土||
+|attune|v.使协调||
+|benign|adj.和善的，温和的；良性的无害的||
+|betray|v.背叛；流露，展现|√|
 
 
 
