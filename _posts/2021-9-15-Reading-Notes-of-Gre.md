@@ -24,7 +24,6 @@ This post will be used to record every understanding or plan about the framework
 
 ----------
 
-{% highlight 考题结构 %}
 ·Verbal Reasoning
 测试会以几种不同的形式出现。大约一半题目要求考生阅读一段或几段文字，然后回答与所阅读段落相关的问题，另一半题目要求考生阅读、理解并完成给出的橘子、句群或段落。很多题目（但并非全部）是标准的单项选择题，要求选出一个正确选项；另有一些题目要求选出多个正确选项；还有一些题目则要求考生从段落中选出一个句子。选项的数量因题型而异。
 
