@@ -3,7 +3,7 @@ layout: post
 title: GRE Results Sending
 author: Charlie Wang
 tags:
-- note
+- experience
 - gre
 date: 2021-9-22 19:23 +0800
 ---
