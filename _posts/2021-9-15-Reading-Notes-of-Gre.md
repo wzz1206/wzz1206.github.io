@@ -12,10 +12,15 @@ It's time for preparing Gre test! (Finally)
 This post will be used to record every understanding or plan about the framework of GRE test.
 
 临时计划：前10天中
+
 单词：kmfapp每天背3个list的单词
+
 数学：kmf官网做2个数学经典section，1个数学难题section
+
 填空：刷3篇填空
-阅读：写20道阅读。
+
+阅读：写20道阅读
+
 写作：培养辩证思路，每天思考一套题
 
 
