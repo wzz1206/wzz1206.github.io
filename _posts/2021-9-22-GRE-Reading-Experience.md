@@ -7,17 +7,13 @@ tags:
 - gre
 date: 2021-9-22 19:38 +0800
 ---
+Gre阅读经验
+---
 
-<font size="3"><font color="Blue"><strong>寄托出品，版权所有，转载请注明出处</strong></font></font><br />
-<br />
 Disclaimer:这篇文章的用意是告诉大家准备GRE过程中的一些习惯和方法，这些并不是放之四海而皆准的“黄金法则”，因此各位可以自行进行取舍修改。<br />
 <br />
 <br />
 关于我：我在3.9的考试中Verbal拿到了满分，两个V阅读全对。LSAT阅读也能在35分钟内做到错3个之内，因此我认为对于阅读我还是有些心得。经验贴可以见<a href="http://bbs.gter.net/thread-1510435-1-1.html" target="_blank">这里</a>：<br />
-<br />
-为了方便阅读做了一个PDF<br />
-<br />
-<br />
 <br />
 <br />
 <font size="3"><strong><br />
@@ -34,16 +30,18 @@ Disclaimer:这篇文章的用意是告诉大家准备GRE过程中的一些习惯
 <strong><br />
 我的建议是不需要背</strong>，这样非常拖进度也浪费时间。读到什么程度算是基本过关，<strong>看到一个难句可以识别出主要成分并剔除插入语，修饰语等成分</strong>。<br />
 <br />
-Eg: <div class="quote"><blockquote>Also, a jury may give more probative weight than objective analysis would allow to vivid photographic evidence depicting a shooting victim’s wounds, or may underestimate the weight of defense testimony that is not delivered in a sufficiently forceful or persuasive manner.</blockquote></div><br />
+Eg: 
+
+<div class="quote"><blockquote>Also, a jury may give more probative weight than objective analysis would allow to vivid photographic evidence depicting a shooting victim’s wounds, or may underestimate the weight of defense testimony that is not delivered in a sufficiently forceful or persuasive manner.</blockquote></div><br />
 这个句子你只需要读出来 Jury may overestimate or underestimate the testimony in a manner that of the testimony being presented.<br />
 <br />
 <br />
 <font size="3"><strong>四个习惯</strong></font><br />
 <br />
-<strong><font color="Blue">1)好奇心（好奇害死猫）</font></strong><br />
+<strong><font color="Red">1)好奇心（好奇害死猫）</font></strong><br />
 <br />
 在阅读中读到晦涩难懂的概念的时候不知道各位是什么态度，我的想法是真有意思啊，我又了解到某些东西。事实是你可能一辈子也不会读到这些文章了，去了美国你只会读关于你专业的学术文章，所以GRE为你提供了一个平台，让你去涉猎更多的领域。当你读到美国宪法修正案，美国黑人奴隶斗争史，女性作家时候试着让自己置身于这样一个年代，你会发现自己更投入。<br />
-<strong><font color="Blue"><br />
+<strong><font color="Red"><br />
 2)随手查阅不懂得概念/事件/人物</font></strong><br />
 <br />
 GRE阅读的pre-knowledge到底有没有用？这是一个很有争议的话题。GRE阅读难点有两点：<br />
@@ -66,14 +64,14 @@ GRE阅读的pre-knowledge到底有没有用？这是一个很有争议的话题�
 <br />
 <strong>PEAR 也就是 <br />
 <br />
-①<font size="3"><font color="Blue">P</font></font>ause, 读完每个段落停下来<br />
+①<font size="3"><font color="Red">P</font></font>ause, 读完每个段落停下来<br />
 ②<font size="3"><font color="DeepSkyBlue">E</font></font>valuate, 总结大意，思考此段落的作用<br />
 ③<font size="3"><font color="Green">A</font></font>nticipate, 预期下一段会讲什么<br />
 ④<font size="3"><font color="Magenta">R</font></font>eassess, 读完下一段再对第二步的evaluate进行评估。 <br />
 <br />
 读下一段接着继续PEAR 直到全文读完 Reassess全文并清晰了解全文的行文方式和逻辑构思。</strong><br />
 <br />
-<strong><font color="Blue">这里我想介绍一个更加aggressive的方法，这个方法可以在练习的时候使用。<br />
+<strong><font color="Red">这里我想介绍一个更加aggressive的方法，这个方法可以在练习的时候使用。<br />
 <br />
 ①读文章首句<br />
 ②停下来，回读文章首句，读的时候发挥自己的想象力，想一下这篇文章会怎么写，用什么观点，作者会持怎么样的态度</font></strong><br />
@@ -162,7 +160,7 @@ A就是一个out of scope选项。 Insufficient? Contour of objects? 文章中�
 <br />
 <strong>技巧四：善于总结错题</strong><br />
 <br />
-总结错题我的建议依然是<strong><font color="Blue">Blind Review</font></strong><br />
+总结错题我的建议依然是<strong><font color="Red">Blind Review</font></strong><br />
 <br />
 Blind Review的意思是<br />
 <strong>1, 100%确定为什么你选择了某个答案（原因）</strong><br />
@@ -238,7 +236,7 @@ GRE阅读做到最后就是关于疲劳度，耐性和节奏的问题，你在�
 <strong><br />
 技巧十：速度是在正确率和熟悉程度提升以后自然而然提升的</strong><br />
 <br />
-有很多版友<strong><font color="#0000ff">一</font><font color="Blue">味的追求速度，这是非常致命的错误</font></strong>。在GRE阅读里面<font color="Red"><strong>跳读略读等于自杀</strong></font>。所谓的速度是你在正确率稳定以后，随着阅读技巧和对错误选项的理解的加深而提升的。因此我的建议是先关注正确率，然后慢慢开始计时。Blind Review阶段也计时，从而最终达到长文章 6分钟做完题，短文章4分钟。这样你最终考试阶段会有足够多的时间可以检查并且推敲一些拿不准的选项。<br />
+有很多版友<strong><font color="#0000ff">一</font><font color="Red">味的追求速度，这是非常致命的错误</font></strong>。在GRE阅读里面<font color="Red"><strong>跳读略读等于自杀</strong></font>。所谓的速度是你在正确率稳定以后，随着阅读技巧和对错误选项的理解的加深而提升的。因此我的建议是先关注正确率，然后慢慢开始计时。Blind Review阶段也计时，从而最终达到长文章 6分钟做完题，短文章4分钟。这样你最终考试阶段会有足够多的时间可以检查并且推敲一些拿不准的选项。<br />
 <br />
 <br />
 <br />
