@@ -29,6 +29,24 @@ This post will be used to record every understanding or plan about the framework
 
 ----------
 
+因结构的不定性，总共考试时间不定，一般不超过4个小时。考试整个过程如下：
+
+  ·Tutorial-计算机辅导练习，时间不限
+
+  ·背景调查
+
+  ·Verbal语文，20题，30分钟-计分
+
+  ·Quantitative数学，20题，35分钟-计分
+
+  ·Unidentified pretest section(s)-可能出现Verbal或Quantitative中任何一个，出现的位置不一定，不计分
+
+  ·选择保留或取消成绩
+
+  ·选择报送成绩学校，最多4所
+  
+题型分析
+
 ·Verbal Reasoning
 测试会以几种不同的形式出现。大约一半题目要求考生阅读一段或几段文字，然后回答与所阅读段落相关的问题，另一半题目要求考生阅读、理解并完成给出的橘子、句群或段落。很多题目（但并非全部）是标准的单项选择题，要求选出一个正确选项；另有一些题目要求选出多个正确选项；还有一些题目则要求考生从段落中选出一个句子。选项的数量因题型而异。
 
