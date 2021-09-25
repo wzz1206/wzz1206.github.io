@@ -141,7 +141,9 @@ date: 2021-9-15 10:42 +0800
 |inattentive|adj.疏忽的；不注意的||
 |contagious|adj.有感染力的||
 |toddler|n.蹒跚学步的孩子||
-
+|subtlety|n.微妙||
+|tendentiousness|n.倾向，偏见||
+|exhaustiveness|n.详尽，全面||
 
 
 
