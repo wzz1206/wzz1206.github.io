@@ -138,7 +138,9 @@ date: 2021-9-15 10:42 +0800
 |uncertainty|n.犹豫;迟疑;无把握(的事);令人无把握的局面||
 |merge|v.合并;融入;(使)结合;并入;相融;渐渐消失在某物中||
 |compartmentalize|vt.分隔;隔开;划分||
-|
+|inattentive|adj.疏忽的；不注意的||
+|contagious|adj.有感染力的||
+|toddler|n.蹒跚学步的孩子||
 
 
 
