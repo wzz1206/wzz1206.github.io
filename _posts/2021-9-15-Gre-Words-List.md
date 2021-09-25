@@ -7,9 +7,12 @@ date: 2021-9-15 10:42 +0800
 ---
 
 9.25日之后用于除佛脚词之外的零碎积累
+
 做题遇到的
 网课看到的
 生活中接触的
+
+这些单词的释义可能并不全面
 
 
 ---
@@ -144,8 +147,14 @@ date: 2021-9-15 10:42 +0800
 |subtlety|n.微妙||
 |tendentiousness|n.倾向，偏见||
 |exhaustiveness|n.详尽，全面||
-
-
+|discursion|n.离题||
+|flippancy|n.轻率||
+|tenuous|adj.脆弱的，站不住脚的||
+|scathing|v.损伤；adj.严厉的||
+|precision|n.精确，准确，细致||
+|satirizes|v.讽刺; 讥讽||
+|flawed|adj.有缺陷的，有瑕疵的;v.（缺陷）损害;削弱;使失效;||
+|biases|n.偏见，偏好；v.使有偏见||
 
 
 ------
