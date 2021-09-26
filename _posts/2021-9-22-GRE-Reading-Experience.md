@@ -3,7 +3,7 @@ layout: post
 title: GRE Reading Experience
 author: Charlie Wang
 tags:
-- Experience
+- experience
 - gre
 date: 2021-9-22 19:38 +0800
 ---
