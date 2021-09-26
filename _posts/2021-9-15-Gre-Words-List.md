@@ -156,6 +156,20 @@ date: 2021-9-15 10:42 +0800
 |flawed|adj.有缺陷的，有瑕疵的;v.（缺陷）损害;削弱;使失效;||
 |biases|n.偏见，偏好；v.使有偏见||
 
+|Date5:2021-9-26|
+---
+
+|     Word     |              Translation             |  Recited  |
+|--------------|--------------------------------------|-----------|
+|diplomat|
+plausible|adj.似乎真实的||
+|compelling||adj.令人信服的||
+|tenuous|adj.脆弱的||
+|footnote| ||
+|citation| ||
+|adduce| ||
+|ambiguity|||
+|dogmatic|||
 
 ------
 Not Pure Poole supports [MathJax](https://www.mathjax.org/). You can enable it on a page by setting `math: true` in the front matter.
