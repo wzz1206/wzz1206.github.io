@@ -161,15 +161,20 @@ date: 2021-9-15 10:42 +0800
 
 |     Word     |              Translation             |  Recited  |
 |--------------|--------------------------------------|-----------|
-|diplomat|
-plausible|adj.似乎真实的||
-|compelling||adj.令人信服的||
+|diplomat|n.外交官；善于交际的人；通权达变的人||
+|plausible|adj.似乎真实的||
+|compelling|adj.令人信服的||
 |tenuous|adj.脆弱的||
-|footnote| ||
-|citation| ||
-|adduce| ||
-|ambiguity|||
-|dogmatic|||
+|footnote|n.脚注|√|
+|citation|n.引言|√|
+|adduce|v.引证，举出||
+|ambiguity|n.模棱两可||
+|dogmatic|adj.自以为是的||
+|inconsequential|adj.不重要的||
+|incontrovertible|adj.无可争议的||
+|vantage|n.优势；平分后的第一分||
+|wind up|结束；最后落得||
+|mimic|v.模仿；n.会模仿的人||
 
 ------
 Not Pure Poole supports [MathJax](https://www.mathjax.org/). You can enable it on a page by setting `math: true` in the front matter.
